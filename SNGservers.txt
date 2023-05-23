@@ -12,3 +12,5 @@ vless://67b327d5-e727-44b7-a97c-f02f70920104@172.96.190.134:49944?type=tcp&secur
 vless://e7d4eced-b306-4c26-fa28-81f0fc6c9f44@172.96.190.134:45038?type=grpc&serviceName=&security=reality&fp=firefox&pbk=CD05WG7BL9dYniC4bJSGChxjXJkerdKNrXrXKvBQWVY&sni=apple.com&sid=66372b58#-m16bwf2gdc
 vless://726c8179-0ec4-460c-99d5-28a85c238ce7@172.96.190.134:15713?type=tcp&security=reality&fp=firefox&pbk=pEPnP6JFnnb80Nt93fib4jkuzpwCVOAd0NGXrBNyixw&sni=google.com&flow=xtls-rprx-vision&sid=0be231bf#-brjxxmafxg
 vless://cbffab13-a2a1-4f52-cc06-c194070f102f@172.96.190.134:46889?type=grpc&serviceName=&security=reality&fp=firefox&pbk=1vCotDXladQeC8Z_lSeyuxZjDQskLcPk7xV_7GYJO3U&sni=google.com&sid=5ddb44f2#-wz3gg497d
+vless://c7d037a5-6b33-44e2-8a65-8ad9cda85a3c@172.96.190.134:443?type=tcp&security=reality&fp=firefox&pbk=gQwxpOvmOqs6c25m7gRbRqrqeQogV1d8XmVZusGFi3o&sni=translate.google.com&flow=xtls-rprx-vision&sid=cf898138#translate.google-a66yv8rzz
+vless://521ed295-8d06-4fa2-dad8-fbc57266fddc@172.96.190.134:4433?type=tcp&security=reality&fp=firefox&pbk=GVLf3LaC-s0W-AJhxaSOv48qLR-I7LD4CYfWthmdihQ&sni=yahoo.com&flow=xtls-rprx-vision&sid=f0f89e3f#-7a6ns4
